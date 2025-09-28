@@ -23,28 +23,29 @@
 
  
  <h5 align="center">
-   <i>本可累惹</i>
+   <i>laugh now, cry later</i>
   </h5>
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
-<p align="center"
+<img align="right" height="270px" width="450px" alt="GIF" src= "[https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXZrNHN1Z3psZW1qaTkxcjNucmpyM2ZoY2g5bjRodDhkcmRybDJweSZlcD12MV9naWZzJmN0PWc/Zf7L4QMWo3RkI/giphy.gif"./>
+<p align="center">
   <h3> I'm studying...</h3>
 </p>
 
+ -rookie
  
-
+ -just for fun
  
  <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
+  <h4> programming </h4>
    </p>
 
 <!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=kimberly-804&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
@@ -98,13 +99,12 @@
 
 <h2 align="center">🤝 Support</h2>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 hope i can do this</p>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<p align="center">Made with ❤️ in India</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<p align="center">Made with ❤️ in China</p>
+
+<h1 align='center'>🏝️<i>when can i go on a vacation</i>💅</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
